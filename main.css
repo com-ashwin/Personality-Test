@@ -1,0 +1,17 @@
+.intro_p{
+    text-align: center;
+   
+}
+#container{
+   
+}
+body{
+    height: 100%;
+    background-color: chocolate;
+}
+#textarea{
+    border: 12px solid black;
+    height: 10vh;
+    width: 69%;
+    
+}
